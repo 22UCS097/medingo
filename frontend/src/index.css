@@ -12,3 +12,6 @@
 ::-webkit-scrollbar{
   @apply hidden
 }
+
+/* bg-[#5f6FFF] */
+/* grid-cols-[repeat(auto-fill,minmax(200px,1fr))] */
